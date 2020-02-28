@@ -1,5 +1,5 @@
-# Time.now()
-2019.02.29 ~ 03.06
+# Time.thisWeek()
+2020.02.29 ~ 2020.03.06
 
 # Working on
-Java Language
+Learning Java Language
